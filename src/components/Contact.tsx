@@ -1,6 +1,4 @@
 import { CONTACT } from "../constants/constant"
-import { motion } from "framer-motion"
-
 function Contact() {
 
   return (
